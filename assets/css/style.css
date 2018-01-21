@@ -18,8 +18,7 @@ section .title h2 {background: #f3f3f3;padding: 15px;font-size: 22px;font-size: 
     overflow:hidden;
     padding-bottom:56.25%;
     position:relative;
-    height:0;
-}
+  }
 .video-responsive iframe{
     left:0;
     top:0;
