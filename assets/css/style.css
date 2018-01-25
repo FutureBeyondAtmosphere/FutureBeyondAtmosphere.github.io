@@ -21,7 +21,7 @@ section .title h2 {background: #f3f3f3;padding: 15px;font-size: 22px;font-size: 
 /*#####--- Header CSS Start ---#####*/
 
 /* Menu & Logo CSS */
-header .navbar-default {background: url(../images/header-bg.jpg);background-size:100%;background-repeat: no-repeat;border: 0px;border-color: #d4d4d4;margin-bottom: 5px;}
+#header .navbar-default {background: url(../images/header-bg.jpg);background-size:100%;background-repeat: no-repeat;border: 0px;border-color: #d4d4d4;margin-bottom: 5px;}
 #header .navbar-default .navbar-nav>li>a {color: #fff;}
 #header .navbar-default .navbar-nav>.active>a {background-color: #fbfbfb;border-top: 3px double #ddd;}
 #header .navbar-default .navbar-nav a:hover, #header .navbar-default .navbar-nav>.active>a:hover {background-color: #fdfdfd !important;border-top: 3px solid #aaa;}
