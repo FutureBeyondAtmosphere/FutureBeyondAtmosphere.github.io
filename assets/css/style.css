@@ -10,7 +10,7 @@ a {text-decoration: none;-webkit-transition: 300ms;-moz-transition: 300ms;-o-tra
 a:focus, a:hover {text-decoration: none;outline: none}
 section {padding: 25px 0;}
 section .title h2 {background: #f3f3f3;padding: 15px;font-size: 22px;font-size: 24px;font-weight: 900;margin-bottom: 35px;text-transform: uppercase;}
-section .title h3 {background: #f3f3f3;padding: 12px;font-size: 18px;font-size: 18px;font-weight: 900;margin-bottom: 28px;text-transform: lowercase;}
+section .title h3 {background: #f3f3f3;padding: 12px;font-size: 20px;font-size: 20px;font-weight: 900;margin-bottom: 28px;}
 .btn:hover {background-color: #027db3;color: #fff;}
 .preloader {position: fixed;top: 0;left: 0;right: 0;bottom: 0;z-index: 999999;background: #fff;}
 .preloader > i {position: absolute;font-size: 36px;line-height: 36px;top: 50%;left: 50%;height: 36px;width: 36px;margin-top: -15px;margin-left: -15px;display: inline-block;color: #555;}
